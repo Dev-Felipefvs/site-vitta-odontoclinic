@@ -1,0 +1,10 @@
+# Configurações locais do editor/Claude
+.claude/
+
+# Fotos originais em alta (não usadas pelo site; as versões otimizadas ficam em assets/img)
+assets/img/raw/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
