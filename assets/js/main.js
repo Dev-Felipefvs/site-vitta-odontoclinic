@@ -5,7 +5,7 @@
   'use strict';
 
   /* EDITAR: número de WhatsApp da clínica (somente dígitos, com DDI 55) */
-  var WHATSAPP = '558291122016';
+  var WHATSAPP = '558293350068';
   var WA_DEFAULT = 'Olá! Vim pelo site e gostaria de agendar uma consulta na Vitta OdontoClínic.';
 
   var body = document.body;
